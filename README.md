@@ -1,5 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Assignment 6
 
+  Show Google maps map and let's user select between Finland, USA and Japan view and when user clicks anywhere in the map coordinates are shown in bellow.
+  
 ## Available Scripts
 
 In the project directory, you can run:
